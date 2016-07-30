@@ -12,3 +12,5 @@ set expandtab
 
 syntax enable
 colorscheme monokai
+
+set noswapfile
